@@ -1,0 +1,6 @@
+[submodule "NeXTerm"]
+	path = NeXTerm
+	url = https://github.com/juddy/NeXTerm
+[submodule "themestuff"]
+	path = themestuff
+	url = https://github.com/juddy/themestuff
